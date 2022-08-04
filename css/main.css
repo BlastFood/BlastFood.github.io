@@ -73,7 +73,7 @@ p {
     margin-inline-end: 0px;
     font-size: var(--text-font-size);
     font-family: 'Comfortaa', san-serif;
-    color: #00259a;
+    color: #0b090a;
     font-weight: var(--default-font-weight);
     padding: 20px 20px 0 20px;
     position: relative;
@@ -89,7 +89,7 @@ footer {
     display: flex;
     bottom: 0;
     font-family: "Raleway";
-    background-color: #00259a;
+    background-color: #0b090a;
     color: #f7c98e;
     width: 100%;
     justify-content: flex-end;
